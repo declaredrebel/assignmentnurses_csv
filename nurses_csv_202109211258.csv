@@ -1,0 +1,791 @@
+"Column1","Location","Period","Indicator","Count"
+5,Afghanistan,2009,"Nursing and midwifery personnel (per 10,000)",6.08
+6,Afghanistan,2008,"Nursing and midwifery personnel (per 10,000)",4.97
+7,Afghanistan,2007,"Nursing and midwifery personnel (per 10,000)",4.96
+14,Albania,2010,"Nursing and midwifery personnel (per 10,000)",40.18
+15,Albania,2009,"Nursing and midwifery personnel (per 10,000)",41.89
+16,Albania,2007,"Nursing and midwifery personnel (per 10,000)",42.01
+36,Algeria,2007,"Nursing and midwifery personnel (per 10,000)",19.29
+39,Andorra,2009,"Nursing and midwifery personnel (per 10,000)",36.81
+40,Andorra,2007,"Nursing and midwifery personnel (per 10,000)",33.86
+54,Angola,2009,"Nursing and midwifery personnel (per 10,000)",13.14
+79,Armenia,2010,"Nursing and midwifery personnel (per 10,000)",52.4
+80,Armenia,2009,"Nursing and midwifery personnel (per 10,000)",51.8
+81,Armenia,2008,"Nursing and midwifery personnel (per 10,000)",51.98
+82,Armenia,2007,"Nursing and midwifery personnel (per 10,000)",51.42
+98,Australia,2009,"Nursing and midwifery personnel (per 10,000)",107.5
+99,Australia,2008,"Nursing and midwifery personnel (per 10,000)",102.6
+100,Australia,2007,"Nursing and midwifery personnel (per 10,000)",101.6
+113,Austria,2010,"Nursing and midwifery personnel (per 10,000)",67.21
+114,Austria,2009,"Nursing and midwifery personnel (per 10,000)",66.73
+116,Austria,2007,"Nursing and midwifery personnel (per 10,000)",64.12
+138,Azerbaijan,2010,"Nursing and midwifery personnel (per 10,000)",73.51
+141,Azerbaijan,2007,"Nursing and midwifery personnel (per 10,000)",82.34
+162,Bahamas,2008,"Nursing and midwifery personnel (per 10,000)",40.47
+170,Bahrain,2009,"Nursing and midwifery personnel (per 10,000)",25.23
+171,Bahrain,2008,"Nursing and midwifery personnel (per 10,000)",25.62
+186,Bangladesh,2010,"Nursing and midwifery personnel (per 10,000)",1.83
+187,Bangladesh,2009,"Nursing and midwifery personnel (per 10,000)",1.71
+188,Bangladesh,2008,"Nursing and midwifery personnel (per 10,000)",1.62
+205,Belarus,2009,"Nursing and midwifery personnel (per 10,000)",105.0
+206,Belarus,2008,"Nursing and midwifery personnel (per 10,000)",103.7
+207,Belarus,2007,"Nursing and midwifery personnel (per 10,000)",101.0
+233,Belgium,2010,"Nursing and midwifery personnel (per 10,000)",100.9
+234,Belgium,2009,"Nursing and midwifery personnel (per 10,000)",98.82
+236,Belgium,2007,"Nursing and midwifery personnel (per 10,000)",96.54
+247,Belize,2009,"Nursing and midwifery personnel (per 10,000)",18.11
+254,Benin,2010,"Nursing and midwifery personnel (per 10,000)",4.52
+255,Benin,2008,"Nursing and midwifery personnel (per 10,000)",8.2
+264,Bhutan,2008,"Nursing and midwifery personnel (per 10,000)",9.92
+265,Bhutan,2007,"Nursing and midwifery personnel (per 10,000)",8.2
+273,Bolivia (Plurinational State of),2007,"Nursing and midwifery personnel (per 10,000)",6.08
+283,Bosnia and Herzegovina,2010,"Nursing and midwifery personnel (per 10,000)",54.87
+284,Bosnia and Herzegovina,2009,"Nursing and midwifery personnel (per 10,000)",53.1
+286,Bosnia and Herzegovina,2007,"Nursing and midwifery personnel (per 10,000)",50.22
+302,Botswana,2010,"Nursing and midwifery personnel (per 10,000)",29.27
+304,Botswana,2008,"Nursing and midwifery personnel (per 10,000)",29.32
+305,Botswana,2007,"Nursing and midwifery personnel (per 10,000)",30.74
+321,Brazil,2010,"Nursing and midwifery personnel (per 10,000)",14.67
+322,Brazil,2008,"Nursing and midwifery personnel (per 10,000)",9.3
+323,Brazil,2007,"Nursing and midwifery personnel (per 10,000)",9.39
+348,Brunei Darussalam,2010,"Nursing and midwifery personnel (per 10,000)",74.81
+349,Brunei Darussalam,2009,"Nursing and midwifery personnel (per 10,000)",51.21
+350,Brunei Darussalam,2008,"Nursing and midwifery personnel (per 10,000)",51.16
+351,Brunei Darussalam,2007,"Nursing and midwifery personnel (per 10,000)",51.07
+362,Bulgaria,2010,"Nursing and midwifery personnel (per 10,000)",47.18
+363,Bulgaria,2009,"Nursing and midwifery personnel (per 10,000)",47.17
+364,Bulgaria,2008,"Nursing and midwifery personnel (per 10,000)",47.38
+365,Bulgaria,2007,"Nursing and midwifery personnel (per 10,000)",47.05
+390,Burkina Faso,2010,"Nursing and midwifery personnel (per 10,000)",5.54
+391,Burkina Faso,2009,"Nursing and midwifery personnel (per 10,000)",4.05
+392,Burkina Faso,2008,"Nursing and midwifery personnel (per 10,000)",3.71
+410,Cabo Verde,2010,"Nursing and midwifery personnel (per 10,000)",11.02
+411,Cabo Verde,2009,"Nursing and midwifery personnel (per 10,000)",10.19
+420,Cambodia,2010,"Nursing and midwifery personnel (per 10,000)",8.56
+421,Cambodia,2009,"Nursing and midwifery personnel (per 10,000)",8.54
+422,Cambodia,2008,"Nursing and midwifery personnel (per 10,000)",8.45
+428,Cameroon,2010,"Nursing and midwifery personnel (per 10,000)",5.27
+429,Cameroon,2009,"Nursing and midwifery personnel (per 10,000)",3.85
+430,Cameroon,2007,"Nursing and midwifery personnel (per 10,000)",4.39
+441,Central African Republic,2009,"Nursing and midwifery personnel (per 10,000)",2.53
+463,Chile,2010,"Nursing and midwifery personnel (per 10,000)",12.67
+464,Chile,2009,"Nursing and midwifery personnel (per 10,000)",1.0
+465,Chile,2008,"Nursing and midwifery personnel (per 10,000)",1.01
+466,Chile,2007,"Nursing and midwifery personnel (per 10,000)",0.99
+479,China,2010,"Nursing and midwifery personnel (per 10,000)",14.88
+481,China,2008,"Nursing and midwifery personnel (per 10,000)",12.33
+482,China,2007,"Nursing and midwifery personnel (per 10,000)",11.52
+504,Colombia,2009,"Nursing and midwifery personnel (per 10,000)",8.24
+505,Colombia,2008,"Nursing and midwifery personnel (per 10,000)",7.77
+526,Comoros,2009,"Nursing and midwifery personnel (per 10,000)",7.03
+535,Congo,2010,"Nursing and midwifery personnel (per 10,000)",4.37
+536,Congo,2007,"Nursing and midwifery personnel (per 10,000)",9.01
+556,Costa Rica,2010,"Nursing and midwifery personnel (per 10,000)",18.63
+557,Costa Rica,2009,"Nursing and midwifery personnel (per 10,000)",17.63
+558,Costa Rica,2008,"Nursing and midwifery personnel (per 10,000)",16.62
+559,Costa Rica,2007,"Nursing and midwifery personnel (per 10,000)",15.79
+570,Côte d’Ivoire,2008,"Nursing and midwifery personnel (per 10,000)",4.71
+579,Croatia,2010,"Nursing and midwifery personnel (per 10,000)",57.76
+581,Croatia,2008,"Nursing and midwifery personnel (per 10,000)",56.83
+582,Croatia,2007,"Nursing and midwifery personnel (per 10,000)",54.68
+606,Cuba,2010,"Nursing and midwifery personnel (per 10,000)",91.77
+607,Cuba,2007,"Nursing and midwifery personnel (per 10,000)",86.93
+615,Cyprus,2010,"Nursing and midwifery personnel (per 10,000)",35.47
+616,Cyprus,2009,"Nursing and midwifery personnel (per 10,000)",34.65
+617,Cyprus,2008,"Nursing and midwifery personnel (per 10,000)",33.0
+618,Cyprus,2007,"Nursing and midwifery personnel (per 10,000)",33.75
+643,Czechia,2010,"Nursing and midwifery personnel (per 10,000)",84.69
+645,Czechia,2008,"Nursing and midwifery personnel (per 10,000)",83.52
+646,Czechia,2007,"Nursing and midwifery personnel (per 10,000)",83.99
+665,Democratic People's Republic of Korea,2008,"Nursing and midwifery personnel (per 10,000)",41.45
+672,Democratic Republic of the Congo,2009,"Nursing and midwifery personnel (per 10,000)",4.1
+679,Denmark,2010,"Nursing and midwifery personnel (per 10,000)",101.0
+680,Denmark,2009,"Nursing and midwifery personnel (per 10,000)",100.7
+681,Denmark,2008,"Nursing and midwifery personnel (per 10,000)",98.17
+682,Denmark,2007,"Nursing and midwifery personnel (per 10,000)",95.41
+719,Dominican Republic,2009,"Nursing and midwifery personnel (per 10,000)",13.25
+728,Ecuador,2010,"Nursing and midwifery personnel (per 10,000)",16.59
+729,Ecuador,2009,"Nursing and midwifery personnel (per 10,000)",18.79
+758,El Salvador,2007,"Nursing and midwifery personnel (per 10,000)",13.68
+776,Estonia,2010,"Nursing and midwifery personnel (per 10,000)",63.99
+777,Estonia,2009,"Nursing and midwifery personnel (per 10,000)",64.4
+778,Estonia,2008,"Nursing and midwifery personnel (per 10,000)",67.0
+779,Estonia,2007,"Nursing and midwifery personnel (per 10,000)",66.84
+804,Eswatini,2009,"Nursing and midwifery personnel (per 10,000)",15.38
+811,Ethiopia,2009,"Nursing and midwifery personnel (per 10,000)",2.52
+812,Ethiopia,2008,"Nursing and midwifery personnel (per 10,000)",2.02
+813,Ethiopia,2007,"Nursing and midwifery personnel (per 10,000)",2.25
+821,Fiji,2009,"Nursing and midwifery personnel (per 10,000)",22.93
+822,Fiji,2008,"Nursing and midwifery personnel (per 10,000)",21.1
+831,Finland,2010,"Nursing and midwifery personnel (per 10,000)",142.6
+832,Finland,2009,"Nursing and midwifery personnel (per 10,000)",139.3
+833,Finland,2008,"Nursing and midwifery personnel (per 10,000)",135.1
+834,Finland,2007,"Nursing and midwifery personnel (per 10,000)",137.5
+851,France,2010,"Nursing and midwifery personnel (per 10,000)",90.12
+852,France,2009,"Nursing and midwifery personnel (per 10,000)",87.69
+854,France,2007,"Nursing and midwifery personnel (per 10,000)",81.85
+873,Gambia,2007,"Nursing and midwifery personnel (per 10,000)",7.7
+886,Georgia,2010,"Nursing and midwifery personnel (per 10,000)",39.5
+887,Georgia,2009,"Nursing and midwifery personnel (per 10,000)",38.96
+888,Georgia,2008,"Nursing and midwifery personnel (per 10,000)",39.37
+889,Georgia,2007,"Nursing and midwifery personnel (per 10,000)",39.07
+908,Germany,2010,"Nursing and midwifery personnel (per 10,000)",119.1
+910,Germany,2008,"Nursing and midwifery personnel (per 10,000)",115.2
+911,Germany,2007,"Nursing and midwifery personnel (per 10,000)",112.9
+926,Ghana,2010,"Nursing and midwifery personnel (per 10,000)",10.61
+928,Ghana,2008,"Nursing and midwifery personnel (per 10,000)",9.69
+937,Greece,2010,"Nursing and midwifery personnel (per 10,000)",37.64
+938,Greece,2009,"Nursing and midwifery personnel (per 10,000)",36.44
+939,Greece,2008,"Nursing and midwifery personnel (per 10,000)",35.13
+940,Greece,2007,"Nursing and midwifery personnel (per 10,000)",34.38
+966,Guatemala,2009,"Nursing and midwifery personnel (per 10,000)",8.7
+979,Guinea-Bissau,2008,"Nursing and midwifery personnel (per 10,000)",6.59
+987,Guyana,2010,"Nursing and midwifery personnel (per 10,000)",10.06
+988,Guyana,2009,"Nursing and midwifery personnel (per 10,000)",13.23
+1000,Honduras,2010,"Nursing and midwifery personnel (per 10,000)",8.6
+1012,Hungary,2009,"Nursing and midwifery personnel (per 10,000)",64.24
+1013,Hungary,2008,"Nursing and midwifery personnel (per 10,000)",63.49
+1014,Hungary,2007,"Nursing and midwifery personnel (per 10,000)",61.28
+1040,Iceland,2010,"Nursing and midwifery personnel (per 10,000)",152.2
+1041,Iceland,2009,"Nursing and midwifery personnel (per 10,000)",162.0
+1042,Iceland,2008,"Nursing and midwifery personnel (per 10,000)",160.1
+1043,Iceland,2007,"Nursing and midwifery personnel (per 10,000)",150.9
+1069,India,2010,"Nursing and midwifery personnel (per 10,000)",8.7
+1070,India,2009,"Nursing and midwifery personnel (per 10,000)",8.57
+1071,India,2008,"Nursing and midwifery personnel (per 10,000)",8.09
+1072,India,2007,"Nursing and midwifery personnel (per 10,000)",7.86
+1087,Indonesia,2009,"Nursing and midwifery personnel (per 10,000)",9.99
+1113,Ireland,2008,"Nursing and midwifery personnel (per 10,000)",128.4
+1114,Ireland,2007,"Nursing and midwifery personnel (per 10,000)",129.3
+1131,Israel,2009,"Nursing and midwifery personnel (per 10,000)",52.14
+1132,Israel,2008,"Nursing and midwifery personnel (per 10,000)",53.71
+1133,Israel,2007,"Nursing and midwifery personnel (per 10,000)",56.4
+1157,Italy,2007,"Nursing and midwifery personnel (per 10,000)",52.38
+1169,Jamaica,2008,"Nursing and midwifery personnel (per 10,000)",10.53
+1175,Japan,2010,"Nursing and midwifery personnel (per 10,000)",102.7
+1176,Japan,2008,"Nursing and midwifery personnel (per 10,000)",97.39
+1191,Jordan,2010,"Nursing and midwifery personnel (per 10,000)",35.34
+1192,Jordan,2009,"Nursing and midwifery personnel (per 10,000)",34.99
+1193,Jordan,2008,"Nursing and midwifery personnel (per 10,000)",29.57
+1194,Jordan,2007,"Nursing and midwifery personnel (per 10,000)",30.18
+1209,Kazakhstan,2010,"Nursing and midwifery personnel (per 10,000)",77.22
+1211,Kazakhstan,2008,"Nursing and midwifery personnel (per 10,000)",71.01
+1238,Kenya,2010,"Nursing and midwifery personnel (per 10,000)",7.06
+1240,Kenya,2008,"Nursing and midwifery personnel (per 10,000)",3.54
+1245,Kiribati,2010,"Nursing and midwifery personnel (per 10,000)",39.26
+1246,Kiribati,2008,"Nursing and midwifery personnel (per 10,000)",36.54
+1257,Kuwait,2010,"Nursing and midwifery personnel (per 10,000)",65.29
+1258,Kuwait,2009,"Nursing and midwifery personnel (per 10,000)",48.05
+1259,Kuwait,2008,"Nursing and midwifery personnel (per 10,000)",46.76
+1260,Kuwait,2007,"Nursing and midwifery personnel (per 10,000)",43.26
+1268,Kyrgyzstan,2009,"Nursing and midwifery personnel (per 10,000)",56.8
+1269,Kyrgyzstan,2008,"Nursing and midwifery personnel (per 10,000)",57.05
+1270,Kyrgyzstan,2007,"Nursing and midwifery personnel (per 10,000)",58.82
+1295,Lao People's Democratic Republic,2010,"Nursing and midwifery personnel (per 10,000)",8.57
+1308,Latvia,2010,"Nursing and midwifery personnel (per 10,000)",51.55
+1309,Latvia,2009,"Nursing and midwifery personnel (per 10,000)",50.96
+1310,Latvia,2008,"Nursing and midwifery personnel (per 10,000)",57.86
+1311,Latvia,2007,"Nursing and midwifery personnel (per 10,000)",57.56
+1336,Lebanon,2009,"Nursing and midwifery personnel (per 10,000)",17.22
+1337,Lebanon,2007,"Nursing and midwifery personnel (per 10,000)",14.54
+1341,Lesotho,2010,"Nursing and midwifery personnel (per 10,000)",6.66
+1346,Liberia,2010,"Nursing and midwifery personnel (per 10,000)",4.64
+1347,Liberia,2009,"Nursing and midwifery personnel (per 10,000)",9.04
+1348,Liberia,2008,"Nursing and midwifery personnel (per 10,000)",2.71
+1354,Libya,2008,"Nursing and midwifery personnel (per 10,000)",55.28
+1365,Lithuania,2010,"Nursing and midwifery personnel (per 10,000)",75.94
+1366,Lithuania,2009,"Nursing and midwifery personnel (per 10,000)",76.32
+1367,Lithuania,2008,"Nursing and midwifery personnel (per 10,000)",77.23
+1368,Lithuania,2007,"Nursing and midwifery personnel (per 10,000)",75.94
+1392,Luxembourg,2010,"Nursing and midwifery personnel (per 10,000)",113.9
+1393,Luxembourg,2009,"Nursing and midwifery personnel (per 10,000)",115.0
+1394,Luxembourg,2008,"Nursing and midwifery personnel (per 10,000)",3.46
+1395,Luxembourg,2007,"Nursing and midwifery personnel (per 10,000)",3.45
+1412,Madagascar,2010,"Nursing and midwifery personnel (per 10,000)",2.23
+1413,Madagascar,2009,"Nursing and midwifery personnel (per 10,000)",2.43
+1414,Madagascar,2008,"Nursing and midwifery personnel (per 10,000)",2.81
+1415,Madagascar,2007,"Nursing and midwifery personnel (per 10,000)",2.94
+1425,Malawi,2008,"Nursing and midwifery personnel (per 10,000)",2.84
+1434,Malaysia,2010,"Nursing and midwifery personnel (per 10,000)",31.98
+1435,Malaysia,2008,"Nursing and midwifery personnel (per 10,000)",26.75
+1442,Maldives,2010,"Nursing and midwifery personnel (per 10,000)",51.08
+1443,Maldives,2009,"Nursing and midwifery personnel (per 10,000)",52.24
+1444,Maldives,2007,"Nursing and midwifery personnel (per 10,000)",45.91
+1454,Mali,2010,"Nursing and midwifery personnel (per 10,000)",4.46
+1455,Mali,2009,"Nursing and midwifery personnel (per 10,000)",4.44
+1456,Mali,2007,"Nursing and midwifery personnel (per 10,000)",2.11
+1464,Malta,2010,"Nursing and midwifery personnel (per 10,000)",68.5
+1466,Malta,2008,"Nursing and midwifery personnel (per 10,000)",67.96
+1478,Marshall Islands,2010,"Nursing and midwifery personnel (per 10,000)",22.52
+1479,Marshall Islands,2007,"Nursing and midwifery personnel (per 10,000)",33.57
+1486,Mauritania,2009,"Nursing and midwifery personnel (per 10,000)",6.79
+1495,Mauritius,2010,"Nursing and midwifery personnel (per 10,000)",28.85
+1497,Mauritius,2008,"Nursing and midwifery personnel (per 10,000)",27.44
+1498,Mauritius,2007,"Nursing and midwifery personnel (per 10,000)",26.74
+1508,Mexico,2010,"Nursing and midwifery personnel (per 10,000)",24.12
+1509,Mexico,2009,"Nursing and midwifery personnel (per 10,000)",23.62
+1510,Mexico,2008,"Nursing and midwifery personnel (per 10,000)",23.07
+1511,Mexico,2007,"Nursing and midwifery personnel (per 10,000)",22.83
+1535,Mongolia,2010,"Nursing and midwifery personnel (per 10,000)",36.31
+1536,Mongolia,2009,"Nursing and midwifery personnel (per 10,000)",36.22
+1537,Mongolia,2008,"Nursing and midwifery personnel (per 10,000)",36.5
+1545,Montenegro,2010,"Nursing and midwifery personnel (per 10,000)",52.83
+1547,Montenegro,2008,"Nursing and midwifery personnel (per 10,000)",55.51
+1548,Montenegro,2007,"Nursing and midwifery personnel (per 10,000)",54.73
+1554,Morocco,2009,"Nursing and midwifery personnel (per 10,000)",9.3
+1564,Mozambique,2010,"Nursing and midwifery personnel (per 10,000)",4.04
+1565,Mozambique,2009,"Nursing and midwifery personnel (per 10,000)",3.95
+1566,Mozambique,2008,"Nursing and midwifery personnel (per 10,000)",3.88
+1567,Mozambique,2007,"Nursing and midwifery personnel (per 10,000)",3.63
+1581,Myanmar,2010,"Nursing and midwifery personnel (per 10,000)",8.93
+1582,Myanmar,2009,"Nursing and midwifery personnel (per 10,000)",8.62
+1583,Myanmar,2008,"Nursing and midwifery personnel (per 10,000)",8.3
+1584,Myanmar,2007,"Nursing and midwifery personnel (per 10,000)",8.09
+1593,Namibia,2007,"Nursing and midwifery personnel (per 10,000)",28.66
+1598,Nauru,2008,"Nursing and midwifery personnel (per 10,000)",69.7
+1614,Netherlands,2010,"Nursing and midwifery personnel (per 10,000)",1.61
+1643,New Zealand,2010,"Nursing and midwifery personnel (per 10,000)",105.8
+1644,New Zealand,2009,"Nursing and midwifery personnel (per 10,000)",102.6
+1659,Nicaragua,2010,"Nursing and midwifery personnel (per 10,000)",12.65
+1660,Nicaragua,2009,"Nursing and midwifery personnel (per 10,000)",13.03
+1661,Nicaragua,2008,"Nursing and midwifery personnel (per 10,000)",12.92
+1676,Nigeria,2010,"Nursing and midwifery personnel (per 10,000)",13.57
+1677,Nigeria,2009,"Nursing and midwifery personnel (per 10,000)",10.77
+1678,Nigeria,2008,"Nursing and midwifery personnel (per 10,000)",14.97
+1679,Nigeria,2007,"Nursing and midwifery personnel (per 10,000)",14.99
+1684,Niue,2008,"Nursing and midwifery personnel (per 10,000)",100.0
+1698,Norway,2009,"Nursing and midwifery personnel (per 10,000)",164.5
+1699,Norway,2008,"Nursing and midwifery personnel (per 10,000)",145.0
+1700,Norway,2007,"Nursing and midwifery personnel (per 10,000)",144.0
+1715,Oman,2009,"Nursing and midwifery personnel (per 10,000)",42.08
+1717,Oman,2007,"Nursing and midwifery personnel (per 10,000)",39.12
+1735,Pakistan,2010,"Nursing and midwifery personnel (per 10,000)",5.6
+1736,Pakistan,2009,"Nursing and midwifery personnel (per 10,000)",5.44
+1737,Pakistan,2008,"Nursing and midwifery personnel (per 10,000)",5.3
+1752,Palau,2009,"Nursing and midwifery personnel (per 10,000)",61.2
+1763,Panama,2010,"Nursing and midwifery personnel (per 10,000)",24.77
+1783,Papua New Guinea,2010,"Nursing and midwifery personnel (per 10,000)",4.98
+1784,Papua New Guinea,2008,"Nursing and midwifery personnel (per 10,000)",4.08
+1802,Peru,2007,"Nursing and midwifery personnel (per 10,000)",35.87
+1806,Philippines,2009,"Nursing and midwifery personnel (per 10,000)",56.47
+1807,Philippines,2008,"Nursing and midwifery personnel (per 10,000)",51.22
+1808,Philippines,2007,"Nursing and midwifery personnel (per 10,000)",46.54
+1823,Poland,2010,"Nursing and midwifery personnel (per 10,000)",58.28
+1824,Poland,2009,"Nursing and midwifery personnel (per 10,000)",58.06
+1825,Poland,2008,"Nursing and midwifery personnel (per 10,000)",57.4
+1826,Poland,2007,"Nursing and midwifery personnel (per 10,000)",57.18
+1851,Portugal,2010,"Nursing and midwifery personnel (per 10,000)",58.92
+1852,Portugal,2009,"Nursing and midwifery personnel (per 10,000)",56.21
+1863,Qatar,2010,"Nursing and midwifery personnel (per 10,000)",57.18
+1865,Qatar,2008,"Nursing and midwifery personnel (per 10,000)",58.66
+1876,Republic of Korea,2010,"Nursing and midwifery personnel (per 10,000)",46.39
+1877,Republic of Korea,2009,"Nursing and midwifery personnel (per 10,000)",44.78
+1879,Republic of Korea,2007,"Nursing and midwifery personnel (per 10,000)",41.36
+1888,Republic of Moldova,2010,"Nursing and midwifery personnel (per 10,000)",56.48
+1889,Republic of Moldova,2009,"Nursing and midwifery personnel (per 10,000)",56.26
+1890,Republic of Moldova,2008,"Nursing and midwifery personnel (per 10,000)",56.21
+1891,Republic of Moldova,2007,"Nursing and midwifery personnel (per 10,000)",56.47
+1913,The former Yugoslav Republic of Macedonia,2010,"Nursing and midwifery personnel (per 10,000)",41.92
+1914,The former Yugoslav Republic of Macedonia,2009,"Nursing and midwifery personnel (per 10,000)",40.95
+1915,The former Yugoslav Republic of Macedonia,2008,"Nursing and midwifery personnel (per 10,000)",40.07
+1916,The former Yugoslav Republic of Macedonia,2007,"Nursing and midwifery personnel (per 10,000)",37.35
+1930,Romania,2009,"Nursing and midwifery personnel (per 10,000)",61.27
+1931,Romania,2008,"Nursing and midwifery personnel (per 10,000)",59.53
+1932,Romania,2007,"Nursing and midwifery personnel (per 10,000)",60.28
+1957,Russian Federation,2010,"Nursing and midwifery personnel (per 10,000)",76.71
+1959,Russian Federation,2008,"Nursing and midwifery personnel (per 10,000)",76.95
+1960,Russian Federation,2007,"Nursing and midwifery personnel (per 10,000)",78.49
+1975,Rwanda,2009,"Nursing and midwifery personnel (per 10,000)",6.79
+2002,Saint Vincent and the Grenadines,2010,"Nursing and midwifery personnel (per 10,000)",26.04
+2011,Samoa,2008,"Nursing and midwifery personnel (per 10,000)",18.99
+2029,Saudi Arabia,2010,"Nursing and midwifery personnel (per 10,000)",47.33
+2030,Saudi Arabia,2009,"Nursing and midwifery personnel (per 10,000)",41.63
+2031,Saudi Arabia,2008,"Nursing and midwifery personnel (per 10,000)",39.13
+2037,Senegal,2008,"Nursing and midwifery personnel (per 10,000)",4.38
+2045,Serbia,2010,"Nursing and midwifery personnel (per 10,000)",8.81
+2046,Serbia,2009,"Nursing and midwifery personnel (per 10,000)",8.72
+2047,Serbia,2008,"Nursing and midwifery personnel (per 10,000)",8.79
+2048,Serbia,2007,"Nursing and midwifery personnel (per 10,000)",8.64
+2056,Seychelles,2008,"Nursing and midwifery personnel (per 10,000)",44.97
+2057,Seychelles,2007,"Nursing and midwifery personnel (per 10,000)",45.62
+2065,Sierra Leone,2010,"Nursing and midwifery personnel (per 10,000)",2.87
+2066,Sierra Leone,2008,"Nursing and midwifery personnel (per 10,000)",1.62
+2076,Singapore,2009,"Nursing and midwifery personnel (per 10,000)",53.94
+2077,Singapore,2008,"Nursing and midwifery personnel (per 10,000)",50.69
+2078,Singapore,2007,"Nursing and midwifery personnel (per 10,000)",48.78
+2091,Slovakia,2010,"Nursing and midwifery personnel (per 10,000)",64.06
+2092,Slovakia,2009,"Nursing and midwifery personnel (per 10,000)",63.83
+2093,Slovakia,2008,"Nursing and midwifery personnel (per 10,000)",65.82
+2094,Slovakia,2007,"Nursing and midwifery personnel (per 10,000)",66.13
+2109,Slovenia,2010,"Nursing and midwifery personnel (per 10,000)",82.57
+2111,Slovenia,2008,"Nursing and midwifery personnel (per 10,000)",79.14
+2112,Slovenia,2007,"Nursing and midwifery personnel (per 10,000)",77.83
+2126,Solomon Islands,2009,"Nursing and midwifery personnel (per 10,000)",20.96
+2140,South Africa,2010,"Nursing and midwifery personnel (per 10,000)",10.23
+2141,South Africa,2009,"Nursing and midwifery personnel (per 10,000)",9.53
+2142,South Africa,2008,"Nursing and midwifery personnel (per 10,000)",8.78
+2143,South Africa,2007,"Nursing and midwifery personnel (per 10,000)",8.26
+2160,Spain,2010,"Nursing and midwifery personnel (per 10,000)",51.11
+2184,Sri Lanka,2010,"Nursing and midwifery personnel (per 10,000)",17.46
+2185,Sri Lanka,2009,"Nursing and midwifery personnel (per 10,000)",15.55
+2186,Sri Lanka,2008,"Nursing and midwifery personnel (per 10,000)",15.04
+2187,Sri Lanka,2007,"Nursing and midwifery personnel (per 10,000)",20.5
+2209,Sudan (until 2011),2007,"Nursing and midwifery personnel (per 10,000)",10.04
+2218,Suriname,2009,"Nursing and midwifery personnel (per 10,000)",30.63
+2228,Sweden,2010,"Nursing and midwifery personnel (per 10,000)",117.5
+2229,Sweden,2009,"Nursing and midwifery personnel (per 10,000)",116.7
+2230,Sweden,2008,"Nursing and midwifery personnel (per 10,000)",116.6
+2231,Sweden,2007,"Nursing and midwifery personnel (per 10,000)",116.3
+2255,Switzerland,2010,"Nursing and midwifery personnel (per 10,000)",149.6
+2257,Switzerland,2008,"Nursing and midwifery personnel (per 10,000)",139.2
+2258,Switzerland,2007,"Nursing and midwifery personnel (per 10,000)",136.2
+2269,Syrian Arab Republic,2010,"Nursing and midwifery personnel (per 10,000)",18.75
+2270,Syrian Arab Republic,2009,"Nursing and midwifery personnel (per 10,000)",18.43
+2271,Syrian Arab Republic,2008,"Nursing and midwifery personnel (per 10,000)",18.42
+2272,Syrian Arab Republic,2007,"Nursing and midwifery personnel (per 10,000)",18.9
+2285,Tajikistan,2010,"Nursing and midwifery personnel (per 10,000)",39.51
+2286,Tajikistan,2009,"Nursing and midwifery personnel (per 10,000)",35.97
+2287,Tajikistan,2008,"Nursing and midwifery personnel (per 10,000)",35.57
+2288,Tajikistan,2007,"Nursing and midwifery personnel (per 10,000)",35.22
+2310,Thailand,2010,"Nursing and midwifery personnel (per 10,000)",20.64
+2311,Thailand,2009,"Nursing and midwifery personnel (per 10,000)",16.42
+2312,Thailand,2008,"Nursing and midwifery personnel (per 10,000)",15.84
+2313,Thailand,2007,"Nursing and midwifery personnel (per 10,000)",15.28
+2330,Timor-Leste,2010,"Nursing and midwifery personnel (per 10,000)",11.48
+2331,Timor-Leste,2009,"Nursing and midwifery personnel (per 10,000)",11.32
+2332,Timor-Leste,2008,"Nursing and midwifery personnel (per 10,000)",10.45
+2340,Togo,2010,"Nursing and midwifery personnel (per 10,000)",14.62
+2341,Togo,2008,"Nursing and midwifery personnel (per 10,000)",2.99
+2342,Togo,2007,"Nursing and midwifery personnel (per 10,000)",4.18
+2346,Tonga,2010,"Nursing and midwifery personnel (per 10,000)",38.46
+2347,Tonga,2009,"Nursing and midwifery personnel (per 10,000)",36.38
+2348,Tonga,2008,"Nursing and midwifery personnel (per 10,000)",35.2
+2358,Trinidad and Tobago,2007,"Nursing and midwifery personnel (per 10,000)",35.74
+2374,Tunisia,2009,"Nursing and midwifery personnel (per 10,000)",21.53
+2375,Tunisia,2008,"Nursing and midwifery personnel (per 10,000)",21.76
+2385,Turkey,2010,"Nursing and midwifery personnel (per 10,000)",22.83
+2386,Turkey,2009,"Nursing and midwifery personnel (per 10,000)",21.67
+2387,Turkey,2008,"Nursing and midwifery personnel (per 10,000)",20.96
+2388,Turkey,2007,"Nursing and midwifery personnel (per 10,000)",20.38
+2410,Turkmenistan,2010,"Nursing and midwifery personnel (per 10,000)",45.14
+2411,Turkmenistan,2009,"Nursing and midwifery personnel (per 10,000)",45.03
+2412,Turkmenistan,2008,"Nursing and midwifery personnel (per 10,000)",45.41
+2423,Tuvalu,2008,"Nursing and midwifery personnel (per 10,000)",62.05
+2439,Ukraine,2010,"Nursing and midwifery personnel (per 10,000)",74.72
+2440,Ukraine,2009,"Nursing and midwifery personnel (per 10,000)",75.44
+2441,Ukraine,2008,"Nursing and midwifery personnel (per 10,000)",66.08
+2442,Ukraine,2007,"Nursing and midwifery personnel (per 10,000)",66.47
+2458,United Arab Emirates,2010,"Nursing and midwifery personnel (per 10,000)",26.53
+2460,United Arab Emirates,2008,"Nursing and midwifery personnel (per 10,000)",28.18
+2461,United Arab Emirates,2007,"Nursing and midwifery personnel (per 10,000)",29.8
+2487,United Kingdom of Great Britain and Northern Ireland,2010,"Nursing and midwifery personnel (per 10,000)",87.89
+2488,United Kingdom of Great Britain and Northern Ireland,2009,"Nursing and midwifery personnel (per 10,000)",89.04
+2489,United Kingdom of Great Britain and Northern Ireland,2008,"Nursing and midwifery personnel (per 10,000)",91.01
+2490,United Kingdom of Great Britain and Northern Ireland,2007,"Nursing and midwifery personnel (per 10,000)",91.13
+2505,United States of America,2010,"Nursing and midwifery personnel (per 10,000)",125.9
+2507,Uruguay,2008,"Nursing and midwifery personnel (per 10,000)",58.66
+2517,Uzbekistan,2007,"Nursing and midwifery personnel (per 10,000)",108.7
+2538,Vanuatu,2007,"Nursing and midwifery personnel (per 10,000)",15.67
+2549,Viet Nam,2010,"Nursing and midwifery personnel (per 10,000)",12.33
+2550,Viet Nam,2009,"Nursing and midwifery personnel (per 10,000)",11.08
+2552,Viet Nam,2007,"Nursing and midwifery personnel (per 10,000)",9.5
+2563,Yemen,2010,"Nursing and midwifery personnel (per 10,000)",7.17
+2570,Zambia,2010,"Nursing and midwifery personnel (per 10,000)",7.3
+2571,Zambia,2009,"Nursing and midwifery personnel (per 10,000)",7.19
+2572,Zambia,2008,"Nursing and midwifery personnel (per 10,000)",7.08
+2584,Zimbabwe,2009,"Nursing and midwifery personnel (per 10,000)",9.49
+5,Afghanistan,2009,"Nursing and midwifery personnel (per 10,000)",6.08
+6,Afghanistan,2008,"Nursing and midwifery personnel (per 10,000)",4.97
+7,Afghanistan,2007,"Nursing and midwifery personnel (per 10,000)",4.96
+14,Albania,2010,"Nursing and midwifery personnel (per 10,000)",40.18
+15,Albania,2009,"Nursing and midwifery personnel (per 10,000)",41.89
+16,Albania,2007,"Nursing and midwifery personnel (per 10,000)",42.01
+36,Algeria,2007,"Nursing and midwifery personnel (per 10,000)",19.29
+39,Andorra,2009,"Nursing and midwifery personnel (per 10,000)",36.81
+40,Andorra,2007,"Nursing and midwifery personnel (per 10,000)",33.86
+54,Angola,2009,"Nursing and midwifery personnel (per 10,000)",13.14
+79,Armenia,2010,"Nursing and midwifery personnel (per 10,000)",52.4
+80,Armenia,2009,"Nursing and midwifery personnel (per 10,000)",51.8
+81,Armenia,2008,"Nursing and midwifery personnel (per 10,000)",51.98
+82,Armenia,2007,"Nursing and midwifery personnel (per 10,000)",51.42
+98,Australia,2009,"Nursing and midwifery personnel (per 10,000)",107.5
+99,Australia,2008,"Nursing and midwifery personnel (per 10,000)",102.6
+100,Australia,2007,"Nursing and midwifery personnel (per 10,000)",101.6
+113,Austria,2010,"Nursing and midwifery personnel (per 10,000)",67.21
+114,Austria,2009,"Nursing and midwifery personnel (per 10,000)",66.73
+116,Austria,2007,"Nursing and midwifery personnel (per 10,000)",64.12
+138,Azerbaijan,2010,"Nursing and midwifery personnel (per 10,000)",73.51
+141,Azerbaijan,2007,"Nursing and midwifery personnel (per 10,000)",82.34
+162,Bahamas,2008,"Nursing and midwifery personnel (per 10,000)",40.47
+170,Bahrain,2009,"Nursing and midwifery personnel (per 10,000)",25.23
+171,Bahrain,2008,"Nursing and midwifery personnel (per 10,000)",25.62
+186,Bangladesh,2010,"Nursing and midwifery personnel (per 10,000)",1.83
+187,Bangladesh,2009,"Nursing and midwifery personnel (per 10,000)",1.71
+188,Bangladesh,2008,"Nursing and midwifery personnel (per 10,000)",1.62
+205,Belarus,2009,"Nursing and midwifery personnel (per 10,000)",105.0
+206,Belarus,2008,"Nursing and midwifery personnel (per 10,000)",103.7
+207,Belarus,2007,"Nursing and midwifery personnel (per 10,000)",101.0
+233,Belgium,2010,"Nursing and midwifery personnel (per 10,000)",100.9
+234,Belgium,2009,"Nursing and midwifery personnel (per 10,000)",98.82
+236,Belgium,2007,"Nursing and midwifery personnel (per 10,000)",96.54
+247,Belize,2009,"Nursing and midwifery personnel (per 10,000)",18.11
+254,Benin,2010,"Nursing and midwifery personnel (per 10,000)",4.52
+255,Benin,2008,"Nursing and midwifery personnel (per 10,000)",8.2
+264,Bhutan,2008,"Nursing and midwifery personnel (per 10,000)",9.92
+265,Bhutan,2007,"Nursing and midwifery personnel (per 10,000)",8.2
+273,Bolivia (Plurinational State of),2007,"Nursing and midwifery personnel (per 10,000)",6.08
+283,Bosnia and Herzegovina,2010,"Nursing and midwifery personnel (per 10,000)",54.87
+284,Bosnia and Herzegovina,2009,"Nursing and midwifery personnel (per 10,000)",53.1
+286,Bosnia and Herzegovina,2007,"Nursing and midwifery personnel (per 10,000)",50.22
+302,Botswana,2010,"Nursing and midwifery personnel (per 10,000)",29.27
+304,Botswana,2008,"Nursing and midwifery personnel (per 10,000)",29.32
+305,Botswana,2007,"Nursing and midwifery personnel (per 10,000)",30.74
+321,Brazil,2010,"Nursing and midwifery personnel (per 10,000)",14.67
+322,Brazil,2008,"Nursing and midwifery personnel (per 10,000)",9.3
+323,Brazil,2007,"Nursing and midwifery personnel (per 10,000)",9.39
+348,Brunei Darussalam,2010,"Nursing and midwifery personnel (per 10,000)",74.81
+349,Brunei Darussalam,2009,"Nursing and midwifery personnel (per 10,000)",51.21
+350,Brunei Darussalam,2008,"Nursing and midwifery personnel (per 10,000)",51.16
+351,Brunei Darussalam,2007,"Nursing and midwifery personnel (per 10,000)",51.07
+362,Bulgaria,2010,"Nursing and midwifery personnel (per 10,000)",47.18
+363,Bulgaria,2009,"Nursing and midwifery personnel (per 10,000)",47.17
+364,Bulgaria,2008,"Nursing and midwifery personnel (per 10,000)",47.38
+365,Bulgaria,2007,"Nursing and midwifery personnel (per 10,000)",47.05
+390,Burkina Faso,2010,"Nursing and midwifery personnel (per 10,000)",5.54
+391,Burkina Faso,2009,"Nursing and midwifery personnel (per 10,000)",4.05
+392,Burkina Faso,2008,"Nursing and midwifery personnel (per 10,000)",3.71
+410,Cabo Verde,2010,"Nursing and midwifery personnel (per 10,000)",11.02
+411,Cabo Verde,2009,"Nursing and midwifery personnel (per 10,000)",10.19
+420,Cambodia,2010,"Nursing and midwifery personnel (per 10,000)",8.56
+421,Cambodia,2009,"Nursing and midwifery personnel (per 10,000)",8.54
+422,Cambodia,2008,"Nursing and midwifery personnel (per 10,000)",8.45
+428,Cameroon,2010,"Nursing and midwifery personnel (per 10,000)",5.27
+429,Cameroon,2009,"Nursing and midwifery personnel (per 10,000)",3.85
+430,Cameroon,2007,"Nursing and midwifery personnel (per 10,000)",4.39
+441,Central African Republic,2009,"Nursing and midwifery personnel (per 10,000)",2.53
+463,Chile,2010,"Nursing and midwifery personnel (per 10,000)",12.67
+464,Chile,2009,"Nursing and midwifery personnel (per 10,000)",1.0
+465,Chile,2008,"Nursing and midwifery personnel (per 10,000)",1.01
+466,Chile,2007,"Nursing and midwifery personnel (per 10,000)",0.99
+479,China,2010,"Nursing and midwifery personnel (per 10,000)",14.88
+481,China,2008,"Nursing and midwifery personnel (per 10,000)",12.33
+482,China,2007,"Nursing and midwifery personnel (per 10,000)",11.52
+504,Colombia,2009,"Nursing and midwifery personnel (per 10,000)",8.24
+505,Colombia,2008,"Nursing and midwifery personnel (per 10,000)",7.77
+526,Comoros,2009,"Nursing and midwifery personnel (per 10,000)",7.03
+535,Congo,2010,"Nursing and midwifery personnel (per 10,000)",4.37
+536,Congo,2007,"Nursing and midwifery personnel (per 10,000)",9.01
+556,Costa Rica,2010,"Nursing and midwifery personnel (per 10,000)",18.63
+557,Costa Rica,2009,"Nursing and midwifery personnel (per 10,000)",17.63
+558,Costa Rica,2008,"Nursing and midwifery personnel (per 10,000)",16.62
+559,Costa Rica,2007,"Nursing and midwifery personnel (per 10,000)",15.79
+570,Côte d’Ivoire,2008,"Nursing and midwifery personnel (per 10,000)",4.71
+579,Croatia,2010,"Nursing and midwifery personnel (per 10,000)",57.76
+581,Croatia,2008,"Nursing and midwifery personnel (per 10,000)",56.83
+582,Croatia,2007,"Nursing and midwifery personnel (per 10,000)",54.68
+606,Cuba,2010,"Nursing and midwifery personnel (per 10,000)",91.77
+607,Cuba,2007,"Nursing and midwifery personnel (per 10,000)",86.93
+615,Cyprus,2010,"Nursing and midwifery personnel (per 10,000)",35.47
+616,Cyprus,2009,"Nursing and midwifery personnel (per 10,000)",34.65
+617,Cyprus,2008,"Nursing and midwifery personnel (per 10,000)",33.0
+618,Cyprus,2007,"Nursing and midwifery personnel (per 10,000)",33.75
+643,Czechia,2010,"Nursing and midwifery personnel (per 10,000)",84.69
+645,Czechia,2008,"Nursing and midwifery personnel (per 10,000)",83.52
+646,Czechia,2007,"Nursing and midwifery personnel (per 10,000)",83.99
+665,Democratic People's Republic of Korea,2008,"Nursing and midwifery personnel (per 10,000)",41.45
+672,Democratic Republic of the Congo,2009,"Nursing and midwifery personnel (per 10,000)",4.1
+679,Denmark,2010,"Nursing and midwifery personnel (per 10,000)",101.0
+680,Denmark,2009,"Nursing and midwifery personnel (per 10,000)",100.7
+681,Denmark,2008,"Nursing and midwifery personnel (per 10,000)",98.17
+682,Denmark,2007,"Nursing and midwifery personnel (per 10,000)",95.41
+719,Dominican Republic,2009,"Nursing and midwifery personnel (per 10,000)",13.25
+728,Ecuador,2010,"Nursing and midwifery personnel (per 10,000)",16.59
+729,Ecuador,2009,"Nursing and midwifery personnel (per 10,000)",18.79
+758,El Salvador,2007,"Nursing and midwifery personnel (per 10,000)",13.68
+776,Estonia,2010,"Nursing and midwifery personnel (per 10,000)",63.99
+777,Estonia,2009,"Nursing and midwifery personnel (per 10,000)",64.4
+778,Estonia,2008,"Nursing and midwifery personnel (per 10,000)",67.0
+779,Estonia,2007,"Nursing and midwifery personnel (per 10,000)",66.84
+804,Eswatini,2009,"Nursing and midwifery personnel (per 10,000)",15.38
+811,Ethiopia,2009,"Nursing and midwifery personnel (per 10,000)",2.52
+812,Ethiopia,2008,"Nursing and midwifery personnel (per 10,000)",2.02
+813,Ethiopia,2007,"Nursing and midwifery personnel (per 10,000)",2.25
+821,Fiji,2009,"Nursing and midwifery personnel (per 10,000)",22.93
+822,Fiji,2008,"Nursing and midwifery personnel (per 10,000)",21.1
+831,Finland,2010,"Nursing and midwifery personnel (per 10,000)",142.6
+832,Finland,2009,"Nursing and midwifery personnel (per 10,000)",139.3
+833,Finland,2008,"Nursing and midwifery personnel (per 10,000)",135.1
+834,Finland,2007,"Nursing and midwifery personnel (per 10,000)",137.5
+851,France,2010,"Nursing and midwifery personnel (per 10,000)",90.12
+852,France,2009,"Nursing and midwifery personnel (per 10,000)",87.69
+854,France,2007,"Nursing and midwifery personnel (per 10,000)",81.85
+873,Gambia,2007,"Nursing and midwifery personnel (per 10,000)",7.7
+886,Georgia,2010,"Nursing and midwifery personnel (per 10,000)",39.5
+887,Georgia,2009,"Nursing and midwifery personnel (per 10,000)",38.96
+888,Georgia,2008,"Nursing and midwifery personnel (per 10,000)",39.37
+889,Georgia,2007,"Nursing and midwifery personnel (per 10,000)",39.07
+908,Germany,2010,"Nursing and midwifery personnel (per 10,000)",119.1
+910,Germany,2008,"Nursing and midwifery personnel (per 10,000)",115.2
+911,Germany,2007,"Nursing and midwifery personnel (per 10,000)",112.9
+926,Ghana,2010,"Nursing and midwifery personnel (per 10,000)",10.61
+928,Ghana,2008,"Nursing and midwifery personnel (per 10,000)",9.69
+937,Greece,2010,"Nursing and midwifery personnel (per 10,000)",37.64
+938,Greece,2009,"Nursing and midwifery personnel (per 10,000)",36.44
+939,Greece,2008,"Nursing and midwifery personnel (per 10,000)",35.13
+940,Greece,2007,"Nursing and midwifery personnel (per 10,000)",34.38
+966,Guatemala,2009,"Nursing and midwifery personnel (per 10,000)",8.7
+979,Guinea-Bissau,2008,"Nursing and midwifery personnel (per 10,000)",6.59
+987,Guyana,2010,"Nursing and midwifery personnel (per 10,000)",10.06
+988,Guyana,2009,"Nursing and midwifery personnel (per 10,000)",13.23
+1000,Honduras,2010,"Nursing and midwifery personnel (per 10,000)",8.6
+1012,Hungary,2009,"Nursing and midwifery personnel (per 10,000)",64.24
+1013,Hungary,2008,"Nursing and midwifery personnel (per 10,000)",63.49
+1014,Hungary,2007,"Nursing and midwifery personnel (per 10,000)",61.28
+1040,Iceland,2010,"Nursing and midwifery personnel (per 10,000)",152.2
+1041,Iceland,2009,"Nursing and midwifery personnel (per 10,000)",162.0
+1042,Iceland,2008,"Nursing and midwifery personnel (per 10,000)",160.1
+1043,Iceland,2007,"Nursing and midwifery personnel (per 10,000)",150.9
+1069,India,2010,"Nursing and midwifery personnel (per 10,000)",8.7
+1070,India,2009,"Nursing and midwifery personnel (per 10,000)",8.57
+1071,India,2008,"Nursing and midwifery personnel (per 10,000)",8.09
+1072,India,2007,"Nursing and midwifery personnel (per 10,000)",7.86
+1087,Indonesia,2009,"Nursing and midwifery personnel (per 10,000)",9.99
+1113,Ireland,2008,"Nursing and midwifery personnel (per 10,000)",128.4
+1114,Ireland,2007,"Nursing and midwifery personnel (per 10,000)",129.3
+1131,Israel,2009,"Nursing and midwifery personnel (per 10,000)",52.14
+1132,Israel,2008,"Nursing and midwifery personnel (per 10,000)",53.71
+1133,Israel,2007,"Nursing and midwifery personnel (per 10,000)",56.4
+1157,Italy,2007,"Nursing and midwifery personnel (per 10,000)",52.38
+1169,Jamaica,2008,"Nursing and midwifery personnel (per 10,000)",10.53
+1175,Japan,2010,"Nursing and midwifery personnel (per 10,000)",102.7
+1176,Japan,2008,"Nursing and midwifery personnel (per 10,000)",97.39
+1191,Jordan,2010,"Nursing and midwifery personnel (per 10,000)",35.34
+1192,Jordan,2009,"Nursing and midwifery personnel (per 10,000)",34.99
+1193,Jordan,2008,"Nursing and midwifery personnel (per 10,000)",29.57
+1194,Jordan,2007,"Nursing and midwifery personnel (per 10,000)",30.18
+1209,Kazakhstan,2010,"Nursing and midwifery personnel (per 10,000)",77.22
+1211,Kazakhstan,2008,"Nursing and midwifery personnel (per 10,000)",71.01
+1238,Kenya,2010,"Nursing and midwifery personnel (per 10,000)",7.06
+1240,Kenya,2008,"Nursing and midwifery personnel (per 10,000)",3.54
+1245,Kiribati,2010,"Nursing and midwifery personnel (per 10,000)",39.26
+1246,Kiribati,2008,"Nursing and midwifery personnel (per 10,000)",36.54
+1257,Kuwait,2010,"Nursing and midwifery personnel (per 10,000)",65.29
+1258,Kuwait,2009,"Nursing and midwifery personnel (per 10,000)",48.05
+1259,Kuwait,2008,"Nursing and midwifery personnel (per 10,000)",46.76
+1260,Kuwait,2007,"Nursing and midwifery personnel (per 10,000)",43.26
+1268,Kyrgyzstan,2009,"Nursing and midwifery personnel (per 10,000)",56.8
+1269,Kyrgyzstan,2008,"Nursing and midwifery personnel (per 10,000)",57.05
+1270,Kyrgyzstan,2007,"Nursing and midwifery personnel (per 10,000)",58.82
+1295,Lao People's Democratic Republic,2010,"Nursing and midwifery personnel (per 10,000)",8.57
+1308,Latvia,2010,"Nursing and midwifery personnel (per 10,000)",51.55
+1309,Latvia,2009,"Nursing and midwifery personnel (per 10,000)",50.96
+1310,Latvia,2008,"Nursing and midwifery personnel (per 10,000)",57.86
+1311,Latvia,2007,"Nursing and midwifery personnel (per 10,000)",57.56
+1336,Lebanon,2009,"Nursing and midwifery personnel (per 10,000)",17.22
+1337,Lebanon,2007,"Nursing and midwifery personnel (per 10,000)",14.54
+1341,Lesotho,2010,"Nursing and midwifery personnel (per 10,000)",6.66
+1346,Liberia,2010,"Nursing and midwifery personnel (per 10,000)",4.64
+1347,Liberia,2009,"Nursing and midwifery personnel (per 10,000)",9.04
+1348,Liberia,2008,"Nursing and midwifery personnel (per 10,000)",2.71
+1354,Libya,2008,"Nursing and midwifery personnel (per 10,000)",55.28
+1365,Lithuania,2010,"Nursing and midwifery personnel (per 10,000)",75.94
+1366,Lithuania,2009,"Nursing and midwifery personnel (per 10,000)",76.32
+1367,Lithuania,2008,"Nursing and midwifery personnel (per 10,000)",77.23
+1368,Lithuania,2007,"Nursing and midwifery personnel (per 10,000)",75.94
+1392,Luxembourg,2010,"Nursing and midwifery personnel (per 10,000)",113.9
+1393,Luxembourg,2009,"Nursing and midwifery personnel (per 10,000)",115.0
+1394,Luxembourg,2008,"Nursing and midwifery personnel (per 10,000)",3.46
+1395,Luxembourg,2007,"Nursing and midwifery personnel (per 10,000)",3.45
+1412,Madagascar,2010,"Nursing and midwifery personnel (per 10,000)",2.23
+1413,Madagascar,2009,"Nursing and midwifery personnel (per 10,000)",2.43
+1414,Madagascar,2008,"Nursing and midwifery personnel (per 10,000)",2.81
+1415,Madagascar,2007,"Nursing and midwifery personnel (per 10,000)",2.94
+1425,Malawi,2008,"Nursing and midwifery personnel (per 10,000)",2.84
+1434,Malaysia,2010,"Nursing and midwifery personnel (per 10,000)",31.98
+1435,Malaysia,2008,"Nursing and midwifery personnel (per 10,000)",26.75
+1442,Maldives,2010,"Nursing and midwifery personnel (per 10,000)",51.08
+1443,Maldives,2009,"Nursing and midwifery personnel (per 10,000)",52.24
+1444,Maldives,2007,"Nursing and midwifery personnel (per 10,000)",45.91
+1454,Mali,2010,"Nursing and midwifery personnel (per 10,000)",4.46
+1455,Mali,2009,"Nursing and midwifery personnel (per 10,000)",4.44
+1456,Mali,2007,"Nursing and midwifery personnel (per 10,000)",2.11
+1464,Malta,2010,"Nursing and midwifery personnel (per 10,000)",68.5
+1466,Malta,2008,"Nursing and midwifery personnel (per 10,000)",67.96
+1478,Marshall Islands,2010,"Nursing and midwifery personnel (per 10,000)",22.52
+1479,Marshall Islands,2007,"Nursing and midwifery personnel (per 10,000)",33.57
+1486,Mauritania,2009,"Nursing and midwifery personnel (per 10,000)",6.79
+1495,Mauritius,2010,"Nursing and midwifery personnel (per 10,000)",28.85
+1497,Mauritius,2008,"Nursing and midwifery personnel (per 10,000)",27.44
+1498,Mauritius,2007,"Nursing and midwifery personnel (per 10,000)",26.74
+1508,Mexico,2010,"Nursing and midwifery personnel (per 10,000)",24.12
+1509,Mexico,2009,"Nursing and midwifery personnel (per 10,000)",23.62
+1510,Mexico,2008,"Nursing and midwifery personnel (per 10,000)",23.07
+1511,Mexico,2007,"Nursing and midwifery personnel (per 10,000)",22.83
+1535,Mongolia,2010,"Nursing and midwifery personnel (per 10,000)",36.31
+1536,Mongolia,2009,"Nursing and midwifery personnel (per 10,000)",36.22
+1537,Mongolia,2008,"Nursing and midwifery personnel (per 10,000)",36.5
+1545,Montenegro,2010,"Nursing and midwifery personnel (per 10,000)",52.83
+1547,Montenegro,2008,"Nursing and midwifery personnel (per 10,000)",55.51
+1548,Montenegro,2007,"Nursing and midwifery personnel (per 10,000)",54.73
+1554,Morocco,2009,"Nursing and midwifery personnel (per 10,000)",9.3
+1564,Mozambique,2010,"Nursing and midwifery personnel (per 10,000)",4.04
+1565,Mozambique,2009,"Nursing and midwifery personnel (per 10,000)",3.95
+1566,Mozambique,2008,"Nursing and midwifery personnel (per 10,000)",3.88
+1567,Mozambique,2007,"Nursing and midwifery personnel (per 10,000)",3.63
+1581,Myanmar,2010,"Nursing and midwifery personnel (per 10,000)",8.93
+1582,Myanmar,2009,"Nursing and midwifery personnel (per 10,000)",8.62
+1583,Myanmar,2008,"Nursing and midwifery personnel (per 10,000)",8.3
+1584,Myanmar,2007,"Nursing and midwifery personnel (per 10,000)",8.09
+1593,Namibia,2007,"Nursing and midwifery personnel (per 10,000)",28.66
+1598,Nauru,2008,"Nursing and midwifery personnel (per 10,000)",69.7
+1614,Netherlands,2010,"Nursing and midwifery personnel (per 10,000)",1.61
+1643,New Zealand,2010,"Nursing and midwifery personnel (per 10,000)",105.8
+1644,New Zealand,2009,"Nursing and midwifery personnel (per 10,000)",102.6
+1659,Nicaragua,2010,"Nursing and midwifery personnel (per 10,000)",12.65
+1660,Nicaragua,2009,"Nursing and midwifery personnel (per 10,000)",13.03
+1661,Nicaragua,2008,"Nursing and midwifery personnel (per 10,000)",12.92
+1676,Nigeria,2010,"Nursing and midwifery personnel (per 10,000)",13.57
+1677,Nigeria,2009,"Nursing and midwifery personnel (per 10,000)",10.77
+1678,Nigeria,2008,"Nursing and midwifery personnel (per 10,000)",14.97
+1679,Nigeria,2007,"Nursing and midwifery personnel (per 10,000)",14.99
+1684,Niue,2008,"Nursing and midwifery personnel (per 10,000)",100.0
+1698,Norway,2009,"Nursing and midwifery personnel (per 10,000)",164.5
+1699,Norway,2008,"Nursing and midwifery personnel (per 10,000)",145.0
+1700,Norway,2007,"Nursing and midwifery personnel (per 10,000)",144.0
+1715,Oman,2009,"Nursing and midwifery personnel (per 10,000)",42.08
+1717,Oman,2007,"Nursing and midwifery personnel (per 10,000)",39.12
+1735,Pakistan,2010,"Nursing and midwifery personnel (per 10,000)",5.6
+1736,Pakistan,2009,"Nursing and midwifery personnel (per 10,000)",5.44
+1737,Pakistan,2008,"Nursing and midwifery personnel (per 10,000)",5.3
+1752,Palau,2009,"Nursing and midwifery personnel (per 10,000)",61.2
+1763,Panama,2010,"Nursing and midwifery personnel (per 10,000)",24.77
+1783,Papua New Guinea,2010,"Nursing and midwifery personnel (per 10,000)",4.98
+1784,Papua New Guinea,2008,"Nursing and midwifery personnel (per 10,000)",4.08
+1802,Peru,2007,"Nursing and midwifery personnel (per 10,000)",35.87
+1806,Philippines,2009,"Nursing and midwifery personnel (per 10,000)",56.47
+1807,Philippines,2008,"Nursing and midwifery personnel (per 10,000)",51.22
+1808,Philippines,2007,"Nursing and midwifery personnel (per 10,000)",46.54
+1823,Poland,2010,"Nursing and midwifery personnel (per 10,000)",58.28
+1824,Poland,2009,"Nursing and midwifery personnel (per 10,000)",58.06
+1825,Poland,2008,"Nursing and midwifery personnel (per 10,000)",57.4
+1826,Poland,2007,"Nursing and midwifery personnel (per 10,000)",57.18
+1851,Portugal,2010,"Nursing and midwifery personnel (per 10,000)",58.92
+1852,Portugal,2009,"Nursing and midwifery personnel (per 10,000)",56.21
+1863,Qatar,2010,"Nursing and midwifery personnel (per 10,000)",57.18
+1865,Qatar,2008,"Nursing and midwifery personnel (per 10,000)",58.66
+1876,Republic of Korea,2010,"Nursing and midwifery personnel (per 10,000)",46.39
+1877,Republic of Korea,2009,"Nursing and midwifery personnel (per 10,000)",44.78
+1879,Republic of Korea,2007,"Nursing and midwifery personnel (per 10,000)",41.36
+1888,Republic of Moldova,2010,"Nursing and midwifery personnel (per 10,000)",56.48
+1889,Republic of Moldova,2009,"Nursing and midwifery personnel (per 10,000)",56.26
+1890,Republic of Moldova,2008,"Nursing and midwifery personnel (per 10,000)",56.21
+1891,Republic of Moldova,2007,"Nursing and midwifery personnel (per 10,000)",56.47
+1913,The former Yugoslav Republic of Macedonia,2010,"Nursing and midwifery personnel (per 10,000)",41.92
+1914,The former Yugoslav Republic of Macedonia,2009,"Nursing and midwifery personnel (per 10,000)",40.95
+1915,The former Yugoslav Republic of Macedonia,2008,"Nursing and midwifery personnel (per 10,000)",40.07
+1916,The former Yugoslav Republic of Macedonia,2007,"Nursing and midwifery personnel (per 10,000)",37.35
+1930,Romania,2009,"Nursing and midwifery personnel (per 10,000)",61.27
+1931,Romania,2008,"Nursing and midwifery personnel (per 10,000)",59.53
+1932,Romania,2007,"Nursing and midwifery personnel (per 10,000)",60.28
+1957,Russian Federation,2010,"Nursing and midwifery personnel (per 10,000)",76.71
+1959,Russian Federation,2008,"Nursing and midwifery personnel (per 10,000)",76.95
+1960,Russian Federation,2007,"Nursing and midwifery personnel (per 10,000)",78.49
+1975,Rwanda,2009,"Nursing and midwifery personnel (per 10,000)",6.79
+2002,Saint Vincent and the Grenadines,2010,"Nursing and midwifery personnel (per 10,000)",26.04
+2011,Samoa,2008,"Nursing and midwifery personnel (per 10,000)",18.99
+2029,Saudi Arabia,2010,"Nursing and midwifery personnel (per 10,000)",47.33
+2030,Saudi Arabia,2009,"Nursing and midwifery personnel (per 10,000)",41.63
+2031,Saudi Arabia,2008,"Nursing and midwifery personnel (per 10,000)",39.13
+2037,Senegal,2008,"Nursing and midwifery personnel (per 10,000)",4.38
+2045,Serbia,2010,"Nursing and midwifery personnel (per 10,000)",8.81
+2046,Serbia,2009,"Nursing and midwifery personnel (per 10,000)",8.72
+2047,Serbia,2008,"Nursing and midwifery personnel (per 10,000)",8.79
+2048,Serbia,2007,"Nursing and midwifery personnel (per 10,000)",8.64
+2056,Seychelles,2008,"Nursing and midwifery personnel (per 10,000)",44.97
+2057,Seychelles,2007,"Nursing and midwifery personnel (per 10,000)",45.62
+2065,Sierra Leone,2010,"Nursing and midwifery personnel (per 10,000)",2.87
+2066,Sierra Leone,2008,"Nursing and midwifery personnel (per 10,000)",1.62
+2076,Singapore,2009,"Nursing and midwifery personnel (per 10,000)",53.94
+2077,Singapore,2008,"Nursing and midwifery personnel (per 10,000)",50.69
+2078,Singapore,2007,"Nursing and midwifery personnel (per 10,000)",48.78
+2091,Slovakia,2010,"Nursing and midwifery personnel (per 10,000)",64.06
+2092,Slovakia,2009,"Nursing and midwifery personnel (per 10,000)",63.83
+2093,Slovakia,2008,"Nursing and midwifery personnel (per 10,000)",65.82
+2094,Slovakia,2007,"Nursing and midwifery personnel (per 10,000)",66.13
+2109,Slovenia,2010,"Nursing and midwifery personnel (per 10,000)",82.57
+2111,Slovenia,2008,"Nursing and midwifery personnel (per 10,000)",79.14
+2112,Slovenia,2007,"Nursing and midwifery personnel (per 10,000)",77.83
+2126,Solomon Islands,2009,"Nursing and midwifery personnel (per 10,000)",20.96
+2140,South Africa,2010,"Nursing and midwifery personnel (per 10,000)",10.23
+2141,South Africa,2009,"Nursing and midwifery personnel (per 10,000)",9.53
+2142,South Africa,2008,"Nursing and midwifery personnel (per 10,000)",8.78
+2143,South Africa,2007,"Nursing and midwifery personnel (per 10,000)",8.26
+2160,Spain,2010,"Nursing and midwifery personnel (per 10,000)",51.11
+2184,Sri Lanka,2010,"Nursing and midwifery personnel (per 10,000)",17.46
+2185,Sri Lanka,2009,"Nursing and midwifery personnel (per 10,000)",15.55
+2186,Sri Lanka,2008,"Nursing and midwifery personnel (per 10,000)",15.04
+2187,Sri Lanka,2007,"Nursing and midwifery personnel (per 10,000)",20.5
+2209,Sudan (until 2011),2007,"Nursing and midwifery personnel (per 10,000)",10.04
+2218,Suriname,2009,"Nursing and midwifery personnel (per 10,000)",30.63
+2228,Sweden,2010,"Nursing and midwifery personnel (per 10,000)",117.5
+2229,Sweden,2009,"Nursing and midwifery personnel (per 10,000)",116.7
+2230,Sweden,2008,"Nursing and midwifery personnel (per 10,000)",116.6
+2231,Sweden,2007,"Nursing and midwifery personnel (per 10,000)",116.3
+2255,Switzerland,2010,"Nursing and midwifery personnel (per 10,000)",149.6
+2257,Switzerland,2008,"Nursing and midwifery personnel (per 10,000)",139.2
+2258,Switzerland,2007,"Nursing and midwifery personnel (per 10,000)",136.2
+2269,Syrian Arab Republic,2010,"Nursing and midwifery personnel (per 10,000)",18.75
+2270,Syrian Arab Republic,2009,"Nursing and midwifery personnel (per 10,000)",18.43
+2271,Syrian Arab Republic,2008,"Nursing and midwifery personnel (per 10,000)",18.42
+2272,Syrian Arab Republic,2007,"Nursing and midwifery personnel (per 10,000)",18.9
+2285,Tajikistan,2010,"Nursing and midwifery personnel (per 10,000)",39.51
+2286,Tajikistan,2009,"Nursing and midwifery personnel (per 10,000)",35.97
+2287,Tajikistan,2008,"Nursing and midwifery personnel (per 10,000)",35.57
+2288,Tajikistan,2007,"Nursing and midwifery personnel (per 10,000)",35.22
+2310,Thailand,2010,"Nursing and midwifery personnel (per 10,000)",20.64
+2311,Thailand,2009,"Nursing and midwifery personnel (per 10,000)",16.42
+2312,Thailand,2008,"Nursing and midwifery personnel (per 10,000)",15.84
+2313,Thailand,2007,"Nursing and midwifery personnel (per 10,000)",15.28
+2330,Timor-Leste,2010,"Nursing and midwifery personnel (per 10,000)",11.48
+2331,Timor-Leste,2009,"Nursing and midwifery personnel (per 10,000)",11.32
+2332,Timor-Leste,2008,"Nursing and midwifery personnel (per 10,000)",10.45
+2340,Togo,2010,"Nursing and midwifery personnel (per 10,000)",14.62
+2341,Togo,2008,"Nursing and midwifery personnel (per 10,000)",2.99
+2342,Togo,2007,"Nursing and midwifery personnel (per 10,000)",4.18
+2346,Tonga,2010,"Nursing and midwifery personnel (per 10,000)",38.46
+2347,Tonga,2009,"Nursing and midwifery personnel (per 10,000)",36.38
+2348,Tonga,2008,"Nursing and midwifery personnel (per 10,000)",35.2
+2358,Trinidad and Tobago,2007,"Nursing and midwifery personnel (per 10,000)",35.74
+2374,Tunisia,2009,"Nursing and midwifery personnel (per 10,000)",21.53
+2375,Tunisia,2008,"Nursing and midwifery personnel (per 10,000)",21.76
+2385,Turkey,2010,"Nursing and midwifery personnel (per 10,000)",22.83
+2386,Turkey,2009,"Nursing and midwifery personnel (per 10,000)",21.67
+2387,Turkey,2008,"Nursing and midwifery personnel (per 10,000)",20.96
+2388,Turkey,2007,"Nursing and midwifery personnel (per 10,000)",20.38
+2410,Turkmenistan,2010,"Nursing and midwifery personnel (per 10,000)",45.14
+2411,Turkmenistan,2009,"Nursing and midwifery personnel (per 10,000)",45.03
+2412,Turkmenistan,2008,"Nursing and midwifery personnel (per 10,000)",45.41
+2423,Tuvalu,2008,"Nursing and midwifery personnel (per 10,000)",62.05
+2439,Ukraine,2010,"Nursing and midwifery personnel (per 10,000)",74.72
+2440,Ukraine,2009,"Nursing and midwifery personnel (per 10,000)",75.44
+2441,Ukraine,2008,"Nursing and midwifery personnel (per 10,000)",66.08
+2442,Ukraine,2007,"Nursing and midwifery personnel (per 10,000)",66.47
+2458,United Arab Emirates,2010,"Nursing and midwifery personnel (per 10,000)",26.53
+2460,United Arab Emirates,2008,"Nursing and midwifery personnel (per 10,000)",28.18
+2461,United Arab Emirates,2007,"Nursing and midwifery personnel (per 10,000)",29.8
+2487,United Kingdom of Great Britain and Northern Ireland,2010,"Nursing and midwifery personnel (per 10,000)",87.89
+2488,United Kingdom of Great Britain and Northern Ireland,2009,"Nursing and midwifery personnel (per 10,000)",89.04
+2489,United Kingdom of Great Britain and Northern Ireland,2008,"Nursing and midwifery personnel (per 10,000)",91.01
+2490,United Kingdom of Great Britain and Northern Ireland,2007,"Nursing and midwifery personnel (per 10,000)",91.13
+2505,United States of America,2010,"Nursing and midwifery personnel (per 10,000)",125.9
+2507,Uruguay,2008,"Nursing and midwifery personnel (per 10,000)",58.66
+2517,Uzbekistan,2007,"Nursing and midwifery personnel (per 10,000)",108.7
+2538,Vanuatu,2007,"Nursing and midwifery personnel (per 10,000)",15.67
+2549,Viet Nam,2010,"Nursing and midwifery personnel (per 10,000)",12.33
+2550,Viet Nam,2009,"Nursing and midwifery personnel (per 10,000)",11.08
+2552,Viet Nam,2007,"Nursing and midwifery personnel (per 10,000)",9.5
+2563,Yemen,2010,"Nursing and midwifery personnel (per 10,000)",7.17
+2570,Zambia,2010,"Nursing and midwifery personnel (per 10,000)",7.3
+2571,Zambia,2009,"Nursing and midwifery personnel (per 10,000)",7.19
+2572,Zambia,2008,"Nursing and midwifery personnel (per 10,000)",7.08
+2584,Zimbabwe,2009,"Nursing and midwifery personnel (per 10,000)",9.49
